@@ -27,8 +27,10 @@ Dada a sequência de Fibonacci: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, ...
 
 Clone o repositório para sua máquina local:
 
-```bash
+
 git clone https://github.com/AlissomSilva/test_fibo_target_sistemas.git
+
+
 2. Navegar até o diretório do projeto
 bash
 Copiar código
