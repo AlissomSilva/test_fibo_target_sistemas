@@ -31,20 +31,22 @@ Clone o repositório para sua máquina local:
 git clone https://github.com/AlissomSilva/test_fibo_target_sistemas.git
 
 
-2. Navegar até o diretório do projeto
+### 2. Navegar até o diretório do projeto
 bash
 Copiar código
 cd test_fibo_target_sistemas
-3. Compilar o código
+
+### 3. Compilar o código
 Compile o código Java usando o seguinte comando:
 
-bash
+
 Copiar código
 javac FibonacciChecker.java
-4. Executar o programa
+
+### 4. Executar o programa
 Após compilar o código, execute o programa:
 
-bash
+
 Copiar código
 java FibonacciChecker
 Você pode alterar o número a ser verificado no código-fonte ou adaptar o programa para receber o número via entrada do usuário.
